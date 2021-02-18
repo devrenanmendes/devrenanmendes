@@ -4,8 +4,7 @@
 
  📍 Belo Horonte, Brazil  
  
-### I work with 
----
+## I work with 
 
 Javascript, React, React-Native, Node.js
 
