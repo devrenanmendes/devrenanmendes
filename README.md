@@ -1,4 +1,4 @@
-## Hey, I'm Renan Mendes
+# Hey, I'm Renan Mendes
 
 🚀 Developer
  📍 Belo Horonte, Brazil  
