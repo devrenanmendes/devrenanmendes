@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hey, I'm Renan Mendes
 
-<!--
-**devrenanmendes/devrenanmendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Developer
+ 📍 Belo Horonte, Brazil  
+ 
+### I work with
 
-Here are some ideas to get you started:
+Javascript, React, React-Native, Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+ 
+Reach me out 👇
+[
+![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/renan_dev/)  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue??style=social&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/renan-mendes-473509207/) 
+
+
+
